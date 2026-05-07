@@ -32,8 +32,8 @@ The basic public explanation is compact:
 ## Repository Contents
 
 ```text
-five_bit_qrng.py      Reference Python implementation
-paper/               White paper PDF and LaTeX source, if included
+five_bit_qrng.py     Reference Python implementation
+paper/               White paper PDF
 README.md            Project description
 LICENSE              Repository license
 .gitignore           Ignore rules for Python and LaTeX auxiliary files
