@@ -1,2 +1,4 @@
-# five-bit-quantum-random-digit-generator
-A simple, auditable QRNG digitization protocol that maps five fair quantum bits into uniform decimal digits using rejection sampling and carry-forward recycling.
+The accompanying Python code is a reference implementation of the digitization logic only.
+Its default bit source is a simulated fair-bit generator and is not a QRNG. In a physical
+implementation, the function that supplies bits should be replaced by a validated quantum
+entropy source or hardware QRNG interface.
