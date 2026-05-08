@@ -8,7 +8,7 @@ A Transparent Rejection-Sampling Protocol with Extreme-Run Recycling**
 **Author:** Eric C. Thompson  
 **ORCID:** [0009-0001-4127-1742](https://orcid.org/0009-0001-4127-1742)  
 **Paper DOI:** [10.5281/zenodo.20076445](https://doi.org/10.5281/zenodo.20076445)  
-**Software DOI:** [10.5281/zenodo.20076932)
+**Software DOI:** [10.5281/zenodo.20076932] (https://doi.org/10.5281/zenodo.20076932)
 
 ## Overview
 
